@@ -14,7 +14,7 @@ How to run the program: ./binary_search.py
 
 How to run the tests: ./test.py
 
-   ```env/bin/python test.py```
+    ```env/bin/python test.py```
 
 
 Before running this program and its tests:
