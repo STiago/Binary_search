@@ -2,7 +2,7 @@ Binary_search Copyright (C) 2013 María Victoria Santiago Alcalá. This program 
 
 # Binary_search
 
-[Binary search](https://stiago.github.io/binary_search) is a search algorithm that finds the position of a target value within a sorted array.Binary search compares the target value to the middle element of the array; if they are unequal, the half in which the target cannot lie is eliminated and the search continues on the remaining half until it is successful or the remaining half is empty.
+[Binary search](https://stiago.github.io/Binary_search/) is a search algorithm that finds the position of a target value within a sorted array.Binary search compares the target value to the middle element of the array; if they are unequal, the half in which the target cannot lie is eliminated and the search continues on the remaining half until it is successful or the remaining half is empty.
 
 Binary search runs in at worst logarithmic time, making O(log n) comparisons, where n is the number of elements in the array, the O is Big O notation, and log is the logarithm. 
 
